@@ -1,7 +1,6 @@
 # Hi there 👋
 ### 🔭 I’m currently working on university FPT 
 ### 🌱 I’m currently learning Java
-### 👯 I’m looking to collaborate on 「updating」
 ### 📫 How to reach me:  
 ###    ─ ─ ─ ─ ─ ⋆   ┊₊˚๑:rice_ball: Facebook꒱✧  https://www.facebook.com/duyquang.khuc.9
 ###    ─ ─ ─ ─ ─ ⋆   ┊₊˚๑:hotdog:    Twitter  ꒱✧  https://twitter.com/whisley1801          
