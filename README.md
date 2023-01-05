@@ -1,9 +1,6 @@
 # Hi there 👋
 ### 🔭 I’m currently working on university FPT 
-### 🌱 I’m currently learning ...
-### 📫 How to reach me:  
-###    ─ ─ ─ ─ ─ ⋆   ┊₊˚๑:rice_ball: Facebook꒱✧  https://www.facebook.com/duyquang.khuc.9
-###    ─ ─ ─ ─ ─ ⋆   ┊₊˚๑:hotdog:    Twitter  ꒱✧  https://twitter.com/whisley1801          
+### 🌱 I’m currently learning ...        
 ### 😄 My favorite: anime, light novel, manga.
 ### ⚡ Fun fact: Your fate「」Your future   
 
