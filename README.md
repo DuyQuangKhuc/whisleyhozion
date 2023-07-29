@@ -1,7 +1,6 @@
 # Hi there 👋
 ### 🔭 I’m currently working on university FPT 
 ### 🌱 I’m currently learning ...        
-### 😄 My favorite: anime, light novel, manga.
 ### ⚡ Fun fact: Your fate「」Your future   
 
 <!--
